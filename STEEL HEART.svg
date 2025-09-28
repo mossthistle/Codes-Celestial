@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 535.02 617.78"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="STEEL HEART.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3839878"
+     inkscape:cx="267.3434"
+     inkscape:cy="308.89001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="BRAWLER" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{stroke:#c1272d;stroke-miterlimit:10;stroke-width:5px;}</style>
+  </defs>
+  <g
+     id="BRAWLER"
+     style="display:inline">
+    <polygon
+       points="205.9,164.05 178.84,153.25 151.79,164.05 151.79,196.07 178.84,206.87 205.9,196.07 205.9,193.48 "
+       id="polygon3" />
+    <polygon
+       points="265.01,158.08 237.95,147.28 210.9,158.08 210.9,190.09 237.95,200.9 265.01,190.09 265.01,170.23 "
+       id="polygon4" />
+    <path
+       class="cls-1"
+       d="M 179,275.07"
+       transform="translate(-13.49,27.89)"
+       id="path4" />
+    <path
+       d="m 165.28,351.66 18.61,18.22 h 194.62 l 18.21,-18.21 v -103 a 62.93,62.93 0 0 1 -56.86,-1.42 L 337.61,246 v -1.2 a 63,63 0 0 1 -54.11,0 v 14.57 a 18.18,18.18 0 0 1 -18.13,18.19 H 165.28 Z"
+       transform="translate(-13.49,27.89)"
+       id="path5" />
+    <path
+       id="path20"
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       d="m 224.42401,242.44798 c -11.26655,0 -22.533,4.31621 -31.16601,12.94922 -17.26603,17.26602 -17.26603,45.066 0,62.33203 l 8.86327,8.86328 62.33203,62.33203 62.33203,-62.33203 8.86329,-8.86329 c 17.26602,-17.26602 17.26602,-45.066 -10e-6,-62.33202 -17.26602,-17.26602 -45.066,-17.26603 -62.33202,0 l -8.86328,8.86328 -8.86328,-8.86328 c -8.63301,-8.63301 -19.89947,-12.94922 -31.16602,-12.94922 z"
+       inkscape:label="heart" />
+    <path
+       d="m 342.61,242.15 v 0.91 a 57.82,57.82 0 0 0 54.11,0 v -65.64 l -27.06,10.8 -27.05,-10.8 z"
+       transform="translate(-13.49,27.89)"
+       id="path1"
+       style="display:inline" />
+    <path
+       d="m 265.37,212.53 a 18,18 0 0 1 13.13,5.68 v -50.62 l -27.05,10.8 -27.06,-10.8 v 44.94 z"
+       transform="translate(-13.49,27.89)"
+       id="path2"
+       style="display:inline" />
+    <path
+       d="M 165.28,272.57 H 265.37 A 13.18,13.18 0 0 0 278.5,259.38 V 230.72 A 13.18,13.18 0 0 0 265.37,217.53 H 165.28 Z"
+       transform="translate(-13.49,27.89)"
+       id="path3"
+       style="display:inline" />
+    <path
+       class="cls-1"
+       d="M 374.19,234.7"
+       transform="translate(-13.49,27.89)"
+       id="path6" />
+    <path
+       class="cls-1"
+       d="M 374.19,234.7"
+       transform="translate(-13.49,27.89)"
+       id="path7" />
+    <polygon
+       points="329.12,199.46 329.12,199.93 356.17,210.73 383.23,199.93 383.23,167.91 356.17,157.11 329.12,167.91 "
+       id="polygon7" />
+    <path
+       class="cls-1"
+       d="M 310.55,142.44"
+       transform="translate(-13.49,27.89)"
+       id="path8" />
+    <path
+       class="cls-1"
+       d="M 369.66,156"
+       transform="translate(-13.49,27.89)"
+       id="path9" />
+    <path
+       class="cls-1"
+       d="M 179,195.36"
+       transform="translate(-13.49,27.89)"
+       id="path10" />
+    <path
+       class="cls-1"
+       d="M 181.9,271"
+       transform="translate(-13.49,27.89)"
+       id="path11" />
+    <path
+       class="cls-1"
+       d="M 179.07,436.38"
+       transform="translate(-13.49,27.89)"
+       id="path12" />
+    <polyline
+       points="198.47 551.6 211.14 450.88 180.26 450.88 155.46 524.42"
+       id="polyline12" />
+    <polygon
+       points="176.67,445.88 359.61,445.88 360.7,402.77 176.67,402.77 "
+       id="polygon12" />
+    <polyline
+       points="380.55 523.85 356.01 450.88 319.68 450.88 332.66 554.06"
+       id="polyline13" />
+    <polygon
+       points="267.51,594.87 327.99,556.99 314.64,450.88 216.18,450.88 203.14,554.53 "
+       id="polygon13" />
+    <polygon
+       points="270.01,193.48 270.01,196.07 297.06,206.87 324.12,196.07 324.12,170.23 324.12,164.53 324.12,164.05 297.06,153.25 270.01,164.05 270.01,170.23 "
+       id="polygon14" />
+    <path
+       d="m 310.55,184.36 -27.05,-10.8 v 65.64 a 57.82,57.82 0 0 0 54.11,0 v -65.64 z"
+       transform="translate(-13.49,27.89)"
+       id="path14" />
+    <polygon
+       points="146.79,372.72 146.79,305.46 146.79,245.43 125.5,245.43 103.53,311.36 "
+       id="polygon15" />
+    <polygon
+       points="151.79,240.43 205.9,240.43 205.9,201.45 178.84,212.25 151.79,201.45 "
+       id="polygon16" />
+  </g>
+  <g
+     id="Layer_47"
+     data-name="Layer 47">
+    <path
+       d="M281,1,523.51,141V421L281,561,38.49,421V141L281,1m0-28.87-12.5,7.21L26,119.34l-12.5,7.21v308.9L26,442.66l242.51,140,12.5,7.21,12.5-7.21L536,442.66l12.5-7.21V126.55L536,119.34,293.5-20.68,281-27.89Z"
+       transform="translate(-13.49 27.89)"
+       id="path16" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1" />
+</svg>
